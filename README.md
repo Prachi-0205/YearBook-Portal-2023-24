@@ -25,11 +25,10 @@ Welcome to the Yearbook Portal, a full-stack application specifically designed a
 
 ### **Comtributors**
 1. Aditi Ganvir
-2. Agrima Bundela
+2. Prachi Patil
 3. Harsh Soni
 4. Tarun Soni
 5. Ayush Awasthi
-6. Ashutosh Samantharay
 
 ---
 ![Step_3](https://github.com/aditiganvir28/Alumni-Cell-Yearbook-Portal/assets/100085991/2efc1347-12c7-4606-81c1-7d7b81bc30bf)
